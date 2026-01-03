@@ -1,0 +1,10 @@
+print("say kiwi")
+input("kiwi")
+print("good job")
+input("thanks")
+print("now say bird")
+input("bird")
+print("say it all  together")
+input("kiwi bird")
+print("wow!")
+
