@@ -1,3 +1,10 @@
+print("""   _  
+ >(.)__ 
+  (___/ 
+   /  \\
+  ^^  ^^
+""")
+
 print("say kiwi")
 input("kiwi")
 print("good job")
